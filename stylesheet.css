@@ -192,4 +192,17 @@ div.icon:hover .contactdrop{
     line-height: 150%;
     word-spacing: 13px;
   }
+  div.myimage{
+    height: 200px;
+    width: 300px;
+  }
+  div.gridelement img{
+    height: 250px;
+  }
+  div.heading{
+    font-size: 45px;
+  }
+  div.contactdrop{
+    font-size: 10px;
+  }
 }
